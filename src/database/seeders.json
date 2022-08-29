@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Costa e Biceps"
+    },
+    {
+      "id": 2,
+      "name": "Peito e Triceps"
+    },
+    {
+      "id": 3,
+      "name": "Pernas e Panturrilhas"
+    }
+  ],
+  "gyms": [
+    {
+      "name": "Supino Plano",
+      "category_id": 1
+    },
+    {
+      "name": "Leg 180",
+      "matricula": 7,
+      "category_id": 3
+    }
+  ]
+}
