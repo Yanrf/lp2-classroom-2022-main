@@ -77,6 +77,7 @@ router.get('/categories', isAuthenticated, async (req, res) => {
 });
 
 router.post('/users', async (req, res) => {
+  // aparentemente nao cadastrando usuario
   try {
     const user = req.body;
 
